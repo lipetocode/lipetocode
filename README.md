@@ -4,7 +4,7 @@
 
 <p align="center">- 🔭 Atualmente trabalho como analista de processos, focado na parte financeira de uma clínica de ortopedia.</p>
 <p align="center">- 🌱 Estou estudando as tecnologias voltadas para o desenvolvimento web (html + css + js).</p>
-<p align="center">- 😄 Pronouns: Ele/Dele.</p>
+<p align="center">- 😄 Pronomes: Ele/Dele.</p>
 
 ##
 
