@@ -1,16 +1,19 @@
-### Hi there 👋
+## Oi, eu sou o Luis! (Leia-se com a voz do Goku 😂).
 
-<!--
-**llima91/llima91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente trabalho como analista de processos, focado na parte financeira de uma clínica de ortopedia.
+- 🌱 Estou estudando as tecnologias voltadas para o desenvolvimento web (html + css + js).
+- 😄 Pronouns: Ele/Dele
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://github.com/llima91">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=llima91)](https://github.com/llima91/github-readme-stats)"
+
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
