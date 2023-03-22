@@ -1,8 +1,8 @@
 <h1 align="center">Oi, eu sou o Luis!</h1>
 
-<img width="100%" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif" />
+<img width="100%" src="https://i.pinimg.com/originals/68/41/a4/6841a453e28aed1e13fa23c6c22fbcc0.gif" />
 
-<p align="center">- 🔭 Atualmente trabalho como analista de processos, focado na parte financeira de uma clínica de ortopedia.</p>
+<p align="center">- 🔭 Atualmente trabalho como analista de processos, focado na parte financeira/contábil de uma clínica de ortopedia.</p>
 <p align="center">- 🌱 Estou estudando as tecnologias voltadas para o desenvolvimento web (html + css + js).</p>
 <p align="center">- 😄 Pronomes: Ele/Dele.</p>
 
